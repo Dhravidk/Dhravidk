@@ -1,7 +1,7 @@
 <div align="center">
 
   <p>
-    <img src="assets/profile-header.svg" width="800" alt="Dhravid Kumar — AI systems, scientific software, GPU systems, developer tools, and medical imaging. I connect research experiments with usable tools, inspectable evidence, and reproducible workflows." />
+    <img src="assets/profile.svg" width="800" alt="Dhravid Kumar — AI systems, scientific software, GPU systems, developer tools, and medical imaging. I connect research experiments with usable tools, inspectable evidence, and reproducible workflows." />
   </p>
 
   <p>
