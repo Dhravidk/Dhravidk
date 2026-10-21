@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="94" viewBox="0 0 960 94" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Selected work</title>
+  <desc id="desc">Four public engineering projects. Each card opens its repository.</desc>
+  <!-- All lettering is native vector outlines. No bitmap or font dependencies. -->
+  <style>
+    .paper { fill: #f8f5ec; }
+    .ink { fill: #1e4033; }
+    .body { fill: #4b6252; }
+    .muted { fill: #52684f; }
+    .solid { fill: #214f3a; }
+    .reverse { fill: #faf8ef; }
+    .wash { fill: #edf0e4; }
+    .rule { stroke: #c5cfbc; }
+    .accent { stroke: #537b61; }
+    .field { stroke: #7f9b7e; }
+    .gold { stroke: #a18b57; }
+    .arrow { stroke: #1e4033; fill: none; }
+    .arrow-reverse { stroke: #faf8ef; fill: none; }
+    .compact { display: none; }
+    @media (max-width: 520px) {
+      .wide { display: none; }
+      .compact { display: inline; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .paper { fill: #131f18; }
+      .ink { fill: #f4f0e2; }
+      .body { fill: #c0cdb7; }
+      .muted { fill: #b2c7a3; }
+      .solid { fill: #d0dfbb; }
+      .reverse { fill: #183a29; }
+      .wash { fill: #203124; }
+      .rule { stroke: #40543a; }
+      .accent { stroke: #9bbb8d; }
+      .field { stroke: #719765; }
+      .gold { stroke: #b5a778; }
+      .arrow { stroke: #f4f0e2; }
+      .arrow-reverse { stroke: #183a29; }
+    }
+  </style>
+  <defs><path id="m38" d="M693 110Q651 53 584.0 17.5Q517 -18 423 -18Q342 -18 273.5 9.5Q205 37 155.5 86.5Q106 136 78.0 204.5Q50 273 50 355Q50 438 78.5 506.5Q107 575 157.5 623.5Q208 672 277.0 699.0Q346 726 427 726Q463 726 500.0 719.0Q537 712 571.0 698.0Q605 684 633.0 663.5Q661 643 681 616L603 556Q577 592 529.5 615.5Q482 639 427 639Q365 639 315.5 616.5Q266 594 231.0 555.0Q196 516 177.0 464.5Q158 413 158 355Q158 295 176.5 243.0Q195 191 229.5 152.5Q264 114 313.5 92.0Q363 70 424 70Q484 70 533.0 94.0Q582 118 614 164Z"/><path id="m39" d="M86 708H329Q397 708 465.0 688.0Q533 668 588.0 625.0Q643 582 677.0 515.0Q711 448 711 354Q711 263 677.0 196.5Q643 130 588.0 86.5Q533 43 465.0 21.5Q397 0 329 0H86ZM185 87H309Q373 87 427.5 105.0Q482 123 521.5 157.0Q561 191 583.0 241.0Q605 291 605 354Q605 420 583.0 470.0Q561 520 521.5 553.5Q482 587 427.5 604.5Q373 622 309 622H185Z"/><path id="m40" d="M185 88H555V0H86V708H540V621H185V409H519V324H185Z"/><path id="m46" d="M185 396H187L503 708H640L296 384L661 0H519L187 366H185V0H86V708H185Z"/><path id="m47" d="M185 88H501V0H86V708H185Z"/><path id="m50" d="M800 355Q800 273 771.5 204.5Q743 136 693.0 86.5Q643 37 574.0 9.5Q505 -18 424 -18Q343 -18 274.5 9.5Q206 37 156.0 86.5Q106 136 78.0 204.5Q50 273 50 355Q50 438 78.0 506.5Q106 575 156.0 623.5Q206 672 274.5 699.0Q343 726 424 726Q505 726 574.0 699.0Q643 672 693.0 623.5Q743 575 771.5 506.5Q800 438 800 355ZM693 355Q693 413 674.0 464.5Q655 516 620.0 555.0Q585 594 535.5 616.5Q486 639 424 639Q363 639 313.5 616.5Q264 594 229.5 555.0Q195 516 176.0 464.5Q157 413 157 355Q157 296 176.0 244.0Q195 192 230.0 153.5Q265 115 314.0 93.0Q363 71 424 71Q485 71 535.0 93.0Q585 115 620.0 153.5Q655 192 674.0 244.0Q693 296 693 355Z"/><path id="m53" d="M185 0H86V708H313Q364 708 410.0 697.5Q456 687 490.5 664.0Q525 641 545.0 603.5Q565 566 565 512Q565 434 517.0 386.0Q469 338 393 325L591 0H471L291 315H185ZM185 398H299Q334 398 364.0 404.0Q394 410 416.5 423.5Q439 437 452.0 458.5Q465 480 465 512Q465 544 452.0 565.5Q439 587 417.5 600.0Q396 613 367.0 618.5Q338 624 306 624H185Z"/><path id="m54" d="M438 577Q417 606 381.0 624.5Q345 643 300 643Q276 643 251.5 636.5Q227 630 207.0 615.5Q187 601 174.5 579.5Q162 558 162 528Q162 499 173.5 479.5Q185 460 204.5 446.5Q224 433 250.5 423.5Q277 414 307 404Q343 393 380.0 379.0Q417 365 447.0 342.0Q477 319 496.0 284.5Q515 250 515 197Q515 142 494.5 101.5Q474 61 440.0 34.5Q406 8 361.5 -5.0Q317 -18 270 -18Q203 -18 140.5 8.0Q78 34 37 85L114 150Q139 113 181.0 90.0Q223 67 272 67Q297 67 322.0 74.0Q347 81 367.5 96.0Q388 111 401.0 133.5Q414 156 414 188Q414 220 400.5 241.5Q387 263 364.0 278.0Q341 293 310.5 303.5Q280 314 246 325Q212 335 179.0 349.5Q146 364 120.0 386.5Q94 409 78.0 442.0Q62 475 62 524Q62 577 83.5 615.0Q105 653 139.5 678.0Q174 703 217.5 714.5Q261 726 305 726Q367 726 421.0 704.0Q475 682 508 645Z"/><path id="m55" d="M334 0H235V621H8V708H561V621H334Z"/><path id="m58" d="M273 144H275L441 708H550L715 144H717L873 708H978L770 0H667L495 569H493L321 0H218L10 708H117Z"/></defs>
+  <path d="M32 47H276M684 47H928" class="rule" stroke-width="1.2"/>
+<g class="muted" aria-label="SELECTED WORK" transform="translate(480 55) scale(0.0240000 -0.0240000)"><use href="#m54" transform="translate(-5145.000 0.000)"/><use href="#m40" transform="translate(-4409.333 0.000)"/><use href="#m47" transform="translate(-3641.667 0.000)"/><use href="#m40" transform="translate(-2964.000 0.000)"/><use href="#m38" transform="translate(-2196.333 0.000)"/><use href="#m55" transform="translate(-1327.667 0.000)"/><use href="#m40" transform="translate(-592.000 0.000)"/><use href="#m39" transform="translate(175.667 0.000)"/><use href="#m58" transform="translate(1508.000 0.000)"/><use href="#m50" transform="translate(2650.667 0.000)"/><use href="#m53" transform="translate(3666.333 0.000)"/><use href="#m46" transform="translate(4447.000 0.000)"/></g>
+</svg>

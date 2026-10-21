@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="40" viewBox="0 0 124 40" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn</title>
+  <desc id="desc">Connect with Dhravid Kumar on LinkedIn.</desc>
+  <!-- All lettering is native vector outlines. No bitmap or font dependencies. -->
+  <style>
+    .paper { fill: #f8f5ec; }
+    .ink { fill: #1e4033; }
+    .body { fill: #4b6252; }
+    .muted { fill: #52684f; }
+    .solid { fill: #214f3a; }
+    .reverse { fill: #faf8ef; }
+    .wash { fill: #edf0e4; }
+    .rule { stroke: #c5cfbc; }
+    .accent { stroke: #537b61; }
+    .field { stroke: #7f9b7e; }
+    .gold { stroke: #a18b57; }
+    .arrow { stroke: #1e4033; fill: none; }
+    .arrow-reverse { stroke: #faf8ef; fill: none; }
+    .compact { display: none; }
+    @media (max-width: 520px) {
+      .wide { display: none; }
+      .compact { display: inline; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .paper { fill: #131f18; }
+      .ink { fill: #f4f0e2; }
+      .body { fill: #c0cdb7; }
+      .muted { fill: #b2c7a3; }
+      .solid { fill: #d0dfbb; }
+      .reverse { fill: #183a29; }
+      .wash { fill: #203124; }
+      .rule { stroke: #40543a; }
+      .accent { stroke: #9bbb8d; }
+      .field { stroke: #719765; }
+      .gold { stroke: #b5a778; }
+      .arrow { stroke: #f4f0e2; }
+      .arrow-reverse { stroke: #183a29; }
+    }
+  </style>
+  <defs><path id="m44" d="M185 0H86V708H185Z"/><path id="m47" d="M185 88H501V0H86V708H185Z"/><path id="m71" d="M459 75Q432 32 385.5 9.5Q339 -13 288 -13Q233 -13 189.0 6.5Q145 26 114.0 60.0Q83 94 66.0 140.0Q49 186 49 238Q49 290 66.0 335.5Q83 381 114.5 415.0Q146 449 190.0 468.0Q234 487 287 487Q345 487 388.0 462.5Q431 438 456 403H458V756H552V0H461V75ZM147 238Q147 205 157.0 174.0Q167 143 187.0 119.0Q207 95 236.0 80.5Q265 66 304 66Q340 66 369.5 80.0Q399 94 420.0 117.5Q441 141 452.5 172.0Q464 203 464 237Q464 271 452.5 302.0Q441 333 420.0 357.0Q399 381 369.5 395.0Q340 409 304 409Q265 409 236.0 395.0Q207 381 187.0 357.0Q167 333 157.0 302.0Q147 271 147 238Z"/><path id="m72" d="M428 279Q427 307 418.5 331.5Q410 356 393.5 374.0Q377 392 352.5 402.5Q328 413 295 413Q265 413 238.5 402.5Q212 392 192.5 374.0Q173 356 160.5 331.5Q148 307 146 279ZM523 241Q523 233 523.0 225.0Q523 217 522 209H146Q147 179 159.5 152.5Q172 126 193.0 106.5Q214 87 241.5 76.0Q269 65 300 65Q348 65 383.0 86.0Q418 107 438 137L504 84Q466 34 414.5 10.5Q363 -13 300 -13Q246 -13 200.0 5.0Q154 23 121.0 55.5Q88 88 69.0 134.0Q50 180 50 236Q50 291 68.5 337.5Q87 384 120.0 417.0Q153 450 198.0 468.5Q243 487 295 487Q347 487 389.5 470.0Q432 453 461.5 421.0Q491 389 507.0 343.5Q523 298 523 241Z"/><path id="m76" d="M176 0H82V474H176ZM192 645Q192 619 173.5 602.0Q155 585 129 585Q103 585 85.0 602.5Q67 620 67 645Q67 671 85.0 688.5Q103 706 129 706Q155 706 173.5 688.5Q192 671 192 645Z"/><path id="m78" d="M177 268H180L379 474H505L283 259L524 0H394L180 246H177V0H83V756H177Z"/><path id="m81" d="M166 474Q168 456 169.0 433.5Q170 411 170 396H173Q182 415 197.5 431.5Q213 448 233.0 460.5Q253 473 277.0 480.0Q301 487 327 487Q373 487 406.0 471.5Q439 456 461.0 430.0Q483 404 493.5 369.0Q504 334 504 294V0H410V263Q410 292 405.5 318.0Q401 344 389.0 364.0Q377 384 356.0 396.0Q335 408 302 408Q246 408 210.5 365.5Q175 323 175 252V0H81V372Q81 391 80.0 421.0Q79 451 77 474Z"/></defs>
+  <rect x="0.75" y="0.75" width="122.5" height="38.5" rx="19.25" class="paper rule" stroke-width="1"/>
+<g class="ink" aria-label="LinkedIn" transform="translate(52 25.5) scale(0.0155000 -0.0155000)"><use href="#m47" transform="translate(-1965.000 0.000)"/><use href="#m76" transform="translate(-1454.000 0.000)"/><use href="#m81" transform="translate(-1195.000 0.000)"/><use href="#m78" transform="translate(-613.000 0.000)"/><use href="#m72" transform="translate(-104.000 0.000)"/><use href="#m71" transform="translate(469.000 0.000)"/><use href="#m44" transform="translate(1104.000 0.000)"/><use href="#m81" transform="translate(1375.000 0.000)"/></g>
+<path d="M93.124 23L100.124 16M94.124 16H100.124V22" class="arrow" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

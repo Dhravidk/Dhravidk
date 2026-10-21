@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="40" viewBox="0 0 124 40" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Email</title>
+  <desc id="desc">Email Dhravid Kumar at dhravid@umich.edu.</desc>
+  <!-- All lettering is native vector outlines. No bitmap or font dependencies. -->
+  <style>
+    .paper { fill: #f8f5ec; }
+    .ink { fill: #1e4033; }
+    .body { fill: #4b6252; }
+    .muted { fill: #52684f; }
+    .solid { fill: #214f3a; }
+    .reverse { fill: #faf8ef; }
+    .wash { fill: #edf0e4; }
+    .rule { stroke: #c5cfbc; }
+    .accent { stroke: #537b61; }
+    .field { stroke: #7f9b7e; }
+    .gold { stroke: #a18b57; }
+    .arrow { stroke: #1e4033; fill: none; }
+    .arrow-reverse { stroke: #faf8ef; fill: none; }
+    .compact { display: none; }
+    @media (max-width: 520px) {
+      .wide { display: none; }
+      .compact { display: inline; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .paper { fill: #131f18; }
+      .ink { fill: #f4f0e2; }
+      .body { fill: #c0cdb7; }
+      .muted { fill: #b2c7a3; }
+      .solid { fill: #d0dfbb; }
+      .reverse { fill: #183a29; }
+      .wash { fill: #203124; }
+      .rule { stroke: #40543a; }
+      .accent { stroke: #9bbb8d; }
+      .field { stroke: #719765; }
+      .gold { stroke: #b5a778; }
+      .arrow { stroke: #f4f0e2; }
+      .arrow-reverse { stroke: #183a29; }
+    }
+  </style>
+  <defs><path id="m40" d="M185 88H555V0H86V708H540V621H185V409H519V324H185Z"/><path id="m68" d="M376 307Q376 360 344.0 385.5Q312 411 259 411Q219 411 183.5 395.5Q148 380 124 356L74 416Q109 449 159.5 468.0Q210 487 268 487Q319 487 356.5 472.5Q394 458 418.0 433.0Q442 408 454.0 374.0Q466 340 466 301V94Q466 70 467.5 43.5Q469 17 473 0H388Q380 34 380 68H377Q351 30 311.5 9.0Q272 -12 218 -12Q190 -12 159.5 -4.5Q129 3 104.0 20.0Q79 37 62.5 65.0Q46 93 46 134Q46 188 75.0 219.5Q104 251 151.0 267.5Q198 284 257.0 289.0Q316 294 376 294ZM353 226Q318 226 280.5 223.0Q243 220 212.5 211.0Q182 202 162.0 184.0Q142 166 142 136Q142 115 150.5 101.0Q159 87 173.0 78.0Q187 69 204.0 65.5Q221 62 239 62Q305 62 340.5 101.5Q376 141 376 201V226Z"/><path id="m76" d="M176 0H82V474H176ZM192 645Q192 619 173.5 602.0Q155 585 129 585Q103 585 85.0 602.5Q67 620 67 645Q67 671 85.0 688.5Q103 706 129 706Q155 706 173.5 688.5Q192 671 192 645Z"/><path id="m79" d="M177 0H83V756H177Z"/><path id="m80" d="M173 396Q191 434 230.5 460.5Q270 487 324 487Q372 487 410.5 465.0Q449 443 471 392Q495 438 538.0 462.5Q581 487 632 487Q678 487 711.0 471.5Q744 456 766.0 430.0Q788 404 798.5 369.0Q809 334 809 294V0H715V263Q715 292 710.0 318.0Q705 344 693.0 364.0Q681 384 661.0 396.0Q641 408 610 408Q578 408 555.0 394.5Q532 381 517.5 359.5Q503 338 496.5 311.0Q490 284 490 256V0H396V282Q396 310 391.0 333.0Q386 356 374.0 372.5Q362 389 343.0 398.5Q324 408 296 408Q244 408 209.5 365.5Q175 323 175 252V0H81V372Q81 391 80.0 421.0Q79 451 77 474H166Q168 456 169.0 433.5Q170 411 170 396H173Z"/></defs>
+  <rect x="0.75" y="0.75" width="122.5" height="38.5" rx="19.25" class="solid" stroke-width="1"/>
+<g class="reverse" aria-label="Email" transform="translate(52 25.5) scale(0.0155000 -0.0155000)"><use href="#m40" transform="translate(-1276.000 0.000)"/><use href="#m80" transform="translate(-675.000 0.000)"/><use href="#m68" transform="translate(212.000 0.000)"/><use href="#m76" transform="translate(754.000 0.000)"/><use href="#m79" transform="translate(1013.000 0.000)"/></g>
+<path d="M82.445 23L89.445 16M83.445 16H89.445V22" class="arrow-reverse" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
