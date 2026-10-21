@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="510" viewBox="0 0 800 510" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">What connects my work</title>
+  <desc id="desc">Measure carefully: preserve the workload, baseline, and evaluation context. Make failures inspectable: retain evidence and explain what happened. Finish the workflow: usable interfaces and reproducible execution. Broader research includes distributed model serving, coding-agent evaluation, medical-image segmentation, and source localization. Interested in research engineering, developer infrastructure, and systems software.</desc>
+  <style>
+    .panel { fill: #f8f5ec; stroke: #d8ddcd; }
+    .ink { fill: #243c30; }
+    .muted { fill: #546451; }
+    .accent { fill: #335744; }
+    .rule { stroke: #cbd4c4; }
+    .soft { fill: #e8edde; }
+    text { font-family: Arial, Helvetica, sans-serif; text-anchor: middle; }
+    .serif { font-family: Georgia, 'Times New Roman', serif; }
+    .compact { display: none; }
+    @media (max-width: 480px) {
+      .wide { display: none; }
+      .compact { display: inline; }
+      .footer-detail { font-size: 32px; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .panel { fill: #161f19; stroke: #35483b; }
+      .ink { fill: #f2f0e6; }
+      .muted { fill: #bac8b7; }
+      .accent { fill: #b0d2b8; }
+      .rule { stroke: #425543; }
+      .soft { fill: #293d2f; }
+    }
+  </style>
+  <path d="M32 30H768" class="rule" stroke-width="1"/>
+  <text x="400" y="76" class="muted" font-size="18" letter-spacing="3">WHAT CONNECTS MY WORK</text>
+  <text x="400" y="132" class="ink serif" font-size="32" >Measure carefully.</text>
+  <text x="400" y="171" class="muted footer-detail" font-size="26" >Preserve workloads, baselines, and context.</text>
+  <text x="400" y="225" class="ink serif" font-size="32" >Make failures inspectable.</text>
+  <text x="400" y="264" class="muted footer-detail" font-size="26" >Explain what happened. Retain the evidence.</text>
+  <text x="400" y="318" class="ink serif" font-size="32" >Finish the workflow.</text>
+  <text x="400" y="357" class="muted footer-detail" font-size="26" >Usable interfaces. Reproducible execution.</text>
+  <path d="M340 396H460" class="rule" stroke-width="1"/>
+  <text x="400" y="440" class="muted footer-detail" font-size="26" >Research engineering · systems software</text>
+  <text x="400" y="480" class="muted footer-detail" font-size="26" >Developer infrastructure</text>
+</svg>
